@@ -1,3 +1,5 @@
 {"timestamp":"1450196551","author":"justrafi@gmail.com","location":{"commit":"18d6b3ed0a988294229b6e4a0d28db43f74a61ff","path":"test.sh","range":{"startLine":3}},"description":"Hey dooo"}
 
 {"timestamp":"1450196572","author":"justrafi@gmail.com","location":{"commit":"18d6b3ed0a988294229b6e4a0d28db43f74a61ff","path":"test.sh","range":{"startLine":4}},"description":"Ma kore?"}
+
+{"timestamp":"1450196586","author":"justrafi@gmail.com","location":{"commit":"18d6b3ed0a988294229b6e4a0d28db43f74a61ff"},"description":"Accepted dude!","resolved":true}
